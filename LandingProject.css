@@ -1,0 +1,26 @@
+html, body    {
+    background:url("background.jpg");
+    height:100%;
+    background-size: cover;
+}
+
+#text p    {
+    color: white;
+    padding: 50%, 25%, 5%, 25%;
+    font-size: 64px;
+    margin-top: 300px;
+    margin-left: 25%;
+    margin-right:25%;
+    text-align: center;
+}
+
+#button p   {
+    text-align: center;
+}
+
+
+
+/* h1 {
+    color: white;
+    align-content: center;
+} */
